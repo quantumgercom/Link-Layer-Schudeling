@@ -233,16 +233,16 @@ A ferramenta foi executada e testada na prática nos seguintes ambientes:
 ## Instruções de instalação
 1. Clonar o repositório
 
-   `
+   ```
    $ git clone https://github.com/quantumgercom/Link-Layer-Schudeling.git
-   `
+   ```
 3. Instalar as dependências
    
    As principais ferramentas utilizadas são:
 `Matplotlib`, `Networkx`, além do `Jupyter Notebook`. Para obtê-las, utiliza-se o `pip`. Isso pode ser feito individualmente, ou por meio do arquivo `requiriments.txt` deste repositório com o seguinte comando no terminal:
-   `
+   ```
    $ pip install -r requirements.txt
-   `
+   ```
    Este documento contém todas as dependências utilizadas pelo ambiente virtual onde o código foi desenvolvimento.
 5. Pronto
 
