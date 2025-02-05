@@ -103,7 +103,7 @@ A **camada física** é a base da pilha de rede quântica, responsável por **cr
 
 ### Como Realizar os Testes  
 
-Os testes são realizados executando múltiplas simulações utilizando os arquivos **[script.py](https://github.com/quantumgercom/Link-Layer-Schudeling/blob/main/Script.py)** e [loop_para_simulação.ipynb](https://github.com/quantumgercom/Link-Layer-Schudeling/blob/main/loop%20para%20simula%C3%A7%C3%A3o.ipynb). O primeiro arquivo configura a simulação de purificação de EPRs em uma rede quântica, enquanto o segundo realiza um loop para rodar **100 tentativas*, coletando métricas e analisando o desempenho do agendamento de purificação.
+Os testes são realizados executando múltiplas simulações utilizando os arquivos **[script.py](https://github.com/quantumgercom/Link-Layer-Schudeling/blob/main/Script.py)** e [loop_para_simulação.ipynb](https://github.com/quantumgercom/Link-Layer-Schudeling/blob/main/loop%20para%20simula%C3%A7%C3%A3o.ipynb). O primeiro arquivo configura a simulação de purificação de EPRs em uma rede quântica, enquanto o segundo realiza um loop para rodar *100 tentativas*, coletando métricas e analisando o desempenho do agendamento de purificação.
 
 ---
 
