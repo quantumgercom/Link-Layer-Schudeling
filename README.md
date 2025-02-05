@@ -164,7 +164,7 @@ python script.py
 
 
 ### *Opção 2: Rodar o loop de 100 tentativas no Jupyter Notebook*  
-Abrir o *Jupyter Notebook* e rodar o loop_para_simulação.ipynb. Isso executará 100 simulações, coletando métricas e gerando um **resumo estatístico*.
+Abrir o *Jupyter Notebook* e rodar o loop_para_simulação.ipynb. Isso executará 100 simulações, coletando métricas e gerando um **resumo estatístico**.
 
 ### *Opção 3: Executar o loop via terminal*  
 Caso prefira rodar tudo via terminal, pode-se usar:  
